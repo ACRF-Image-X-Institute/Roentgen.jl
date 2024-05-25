@@ -35,7 +35,7 @@ CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 RoentgenCUDAExt = "CUDA"
 
 [compat]
-Adapt = "3"
+Adapt = "3, 4"
 CUDA = "4, 5"
 CoordinateTransformations = "0.6"
 DICOM = "0.10"
